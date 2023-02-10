@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Ayush",
+      "username": "slayer",
+      "email": "ayush@gmail.com",
+      "phone": "9876543210",
+      "id": 1
+    },
+    {
+      "name": "lucky",
+      "username": "lucky24",
+      "email": "lucky@gmail.com",
+      "phone": "6543321565",
+      "id": 2
+    },
+    {
+      "name": "Ishu",
+      "username": "Ishu02",
+      "email": "ishu@gmail.com",
+      "phone": "5632145698",
+      "id": 3
+    },
+    {
+      "name": "Harshit",
+      "username": "harsh",
+      "email": "harshit@gmail.com",
+      "phone": "5658972313",
+      "id": 4
+    }
+  ]
+}
